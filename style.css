@@ -1,0 +1,26 @@
+/* body */
+#body {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+/* akhir body */
+.jumbotron {
+  padding: 6rem 1rem;
+  background-color:#1c0b7e;
+}
+
+#projects {
+  background-color:#e2edff;
+}
+.navbar {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+section {
+  padding-top: 5rem;
+  display: block;
+  width: auto;
+  height: auto;
+}
